@@ -1,0 +1,52 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_83B48662_91FC_3620_41E2_14E8485BA4A2.source = https://api.whatsapp.com/send?phone=551144324112&text=Olá, vi o tour virtual do imóvel 23715 e quero mais informações.
+LinkBehaviour_84664656_91FC_1660_41B4_12A826781380.source = https://api.whatsapp.com/send?phone=551144324112&text=Olá, vi o tour virtual do imóvel 23715 e quero mais informações.
+LinkBehaviour_83B60661_91FC_3620_41D8_73EBC254EF97.source = https://api.whatsapp.com/send?phone=551144324112&text=Olá, vi o tour virtual do imóvel 23715 e quero mais informações.
+LinkBehaviour_83B6C661_91FC_3620_41C9_18773791304C.source = https://api.whatsapp.com/send?phone=551144324112&text=Olá, vi o tour virtual do imóvel 23715 e quero mais informações.
+LinkBehaviour_83B4D661_91FC_3620_41D0_6B355824E7F1.source = https://api.whatsapp.com/send?phone=551144324112&text=Olá, vi o tour virtual do imóvel 23715 e quero mais informações.
+LinkBehaviour_83B45660_91FC_3620_41CA_4C24734CC99D.source = https://api.whatsapp.com/send?phone=551144324112&text=Olá, vi o tour virtual do imóvel 23715 e quero mais informações.
+LinkBehaviour_83B77662_91FC_3620_41A0_06F8BEB5F93B.source = https://api.whatsapp.com/send?phone=551144324112&text=Olá, vi o tour virtual do imóvel 23715 e quero mais informações.
+LinkBehaviour_83B63662_91FC_3620_419E_F4689CA3974E.source = https://api.whatsapp.com/send?phone=551144324112&text=Olá, vi o tour virtual do imóvel 23715 e quero mais informações.
+LinkBehaviour_8389F662_91FC_3620_41D2_449CD9337D0C.source = https://api.whatsapp.com/send?phone=551144324112&text=Olá, vi o tour virtual do imóvel 23715 e quero mais informações.
+LinkBehaviour_8389A663_91FC_3620_4198_9CCACB595E8E.source = https://api.whatsapp.com/send?phone=551144324112&text=Olá, vi o tour virtual do imóvel 23715 e quero mais informações.
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_83C59484_91FC_2AE6_41CC_0319955308F7.toolTip = LAZER
+
+## Media
+
+### Title
+album_8510A733_91F4_3623_41D7_F267F1AD1612_0.label = 20240930_103235
+album_8510A733_91F4_3623_41D7_F267F1AD1612_1.label = 20240930_103303
+album_8510A733_91F4_3623_41D7_F267F1AD1612_2.label = 20240930_103345
+album_8510A733_91F4_3623_41D7_F267F1AD1612_3.label = 20240930_103351
+album_8510A733_91F4_3623_41D7_F267F1AD1612_4.label = 20240930_103422
+album_8510A733_91F4_3623_41D7_F267F1AD1612_5.label = 20240930_103439
+album_8510A733_91F4_3623_41D7_F267F1AD1612_6.label = 20240930_103606
+album_8510A733_91F4_3623_41D7_F267F1AD1612_7.label = 20240930_103631
+album_8510A733_91F4_3623_41D7_F267F1AD1612_8.label = 20240930_103639
+album_8510A733_91F4_3623_41D7_F267F1AD1612_9.label = 20240930_103749
+panorama_802E3057_915C_6AD2_41D4_6741DD3A8013.label = IMG_20240930_094900_00_807
+panorama_802E3197_915C_6A52_41D2_5BFAC709D04B.label = IMG_20240930_095014_00_809
+panorama_802FFB4C_915C_1E36_41E0_6E6D4D99420A.label = IMG_20240930_095055_00_810
+panorama_802FA521_915C_2A6E_41D6_67BBB12C6F4A.label = IMG_20240930_095216_00_811
+panorama_802FCE60_915C_36EF_41CB_3B3C598EB5EF.label = IMG_20240930_095257_00_812
+panorama_802F8877_915C_1AD2_41B9_AF51BD847637.label = IMG_20240930_095405_00_813
+panorama_802F6C73_915C_FAD2_41C3_97553071E024.label = IMG_20240930_095500_00_815
+panorama_802EC7B7_915C_1652_4170_C6356F636DE5.label = IMG_20240930_095712_00_816
+panorama_802E82AA_915C_2E72_41E0_2110680E1C5F.label = IMG_20240930_095743_00_817
+panorama_802E8C9C_915C_3A56_41BB_7F1154DEEFF7.label = IMG_20240930_095808_00_818
+album_8510A733_91F4_3623_41D7_F267F1AD1612.label = Álbum de Fotos 20240930_103235
+
+## Tour
+
+### Description
+
+### Title
+tour.name = COD_23715
